@@ -1,2 +1,7 @@
-# SSL
-Repositorio SSL 2023
+# SINTAXIS Y SEMANTICA DE LOS LENGUAJES 2023 
+
+Curso: K2051
+
+Nombre: GUSTAVO
+
+Apellido:  CHEJO
